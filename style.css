@@ -1,0 +1,26 @@
+.{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+font-family: 'poppins',sans-serif;
+padding: 0 116px;
+}
+
+.flex{
+    display: flex;
+}
+
+.space-evenly{justify-content: space-evenly;}
+
+.space-between{justify-content: space-between;}
+
+.align-center{
+    align-items: center;
+}
+
+.direction-column{
+    flex-direction: column;
+}
+@import url('https://fonts.googleleapis.com/css2?family=poppins:wght@400;600&display=swap');
